@@ -6,9 +6,7 @@
 - 🧸 J'aime bien manger, dessiner, regarder des series, des animes ect...
 - 💕 J'aimerais bien faire des projets avec des personnes mais le probleme c'est que j'aime être solo.
 
-### Ce que j'ecoute sur Spotify 🎧 :
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vhf7ohgkp9hbjpp19bvm8rxjw)
+https://discord.c99.nl/widget/theme-2/549348220292038656.png
 
 ### Voici les reseaux sociaux que je partage :
 
