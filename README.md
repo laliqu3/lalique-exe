@@ -53,4 +53,4 @@
 [cssplaylist]: http://loularium.000webhostapp.com/
 [reactplaylist]: http://loularium.000webhostapp.com/
 
-https://profile-counter.glitch.me/lalique-exe/count.svg
+<img src="https://profile-counter.glitch.me/lalique-exe/count.svg">
