@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ### Salut Bienvenue sur ma page ! Moi c'est lalique \ [Loularium⭐][website] 👋
 
 ## Lalique c'est le plus beau.
