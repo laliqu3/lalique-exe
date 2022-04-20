@@ -1,6 +1,6 @@
 ### Salut Bienvenue sur ma page ! Moi c'est lalique \ [Loularium⭐][website] 👋
 
-## Je suis un collegien qui dev juste pour le fun.
+## Lalique c'est le plus beau.
 
 - 💜 J'ai commencer à developer un bot discord en javascript : [Mon Bot][course].
 - 🧸 J'aime bien manger, dessiner, regarder des series, des animes ect...
