@@ -6,7 +6,7 @@
 - 🧸 J'aime bien manger, dessiner, regarder des series, des animes ect...
 - 💕 J'aimerais bien faire des projets avec des personnes mais le probleme c'est que j'aime être solo.
 
-https://discord.c99.nl/widget/theme-2/549348220292038656.png
+[https://discord.c99.nl/widget/theme-2/549348220292038656.png]
 
 ### Voici les reseaux sociaux que je partage :
 
